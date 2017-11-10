@@ -20,7 +20,7 @@ tags:
   - Swansea City
 
 ---
-![Darren Bent in action for Fulham](http://www.footballdigest.org/wp-content/uploads/2013/11/Darren-Bent-Fulham.jpg)[1]
+![Darren Bent in action for Fulham](/uploads/2013/11/Darren-Bent-Fulham.jpg)[1]
 
 When the Premier League creeps closer to the month of December fans of the most entertaining league in the world can usually grasp an idea of the likely relegation candidates. Last season Queens Park Rangers gave the impression of a relegated side from the minute the Premier League began - in fact I favoured such a possibility during the summer when their recruitment went into overdrive, an article that didn't go down too well with the QPR faithful!  
 Sometimes the majority of EPL fans can see a side that is clearly not cut out for the standard of the league, and early signs this season would point at Crystal Palace, although their win over Hull City at the weekend is cause for hope, for Eagles fans across the world.
@@ -33,7 +33,7 @@ On Saturday last Fulham suffered yet another home defeat, falling to a Swansea C
 
 Quite a basic rule of thumb in football is if you happen to have played more games then you have points - then there is a problem, a rather large one indeed. **Fulham** have amassed 10 points from 12 games, and their fixture list isn't getting any easier as the highly anticipated action packed Christmas period approaches.
 
-![Rene Meulensteen, Fulham assistant manager](http://www.footballdigest.org/wp-content/uploads/2013/11/Rene-Meulensteen-Fulham.jpg)[2]
+![Rene Meulensteen, Fulham assistant manager](/uploads/2013/11/Rene-Meulensteen-Fulham.jpg)[2]
 
 The arrival of Rene Meulesteen is a positive move by the hierarchy as the ex-United coach has that winning mentality and grit that came with years of service to Alex Ferguson. If the London outfit are to remain in the Premier League, then you can be sure that Rene will have a huge part to play in the mission.
 
@@ -47,5 +47,5 @@ With West Ham, Tottenham, Aston Villa, and Everton all awaiting Fulham in the ne
 
 Comments welcome, just make sure to keep them civil! You can also follow myself on Twitter @KevinDoocey if you wish to do so!
 
- [1]: http://www.footballdigest.org/wp-content/uploads/2013/11/Darren-Bent-Fulham.jpg
- [2]: http://www.footballdigest.org/wp-content/uploads/2013/11/Rene-Meulensteen-Fulham.jpg
+ [1]: /uploads/2013/11/Darren-Bent-Fulham.jpg
+ [2]: /uploads/2013/11/Rene-Meulensteen-Fulham.jpg

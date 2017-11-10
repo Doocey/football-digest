@@ -18,7 +18,7 @@ tags:
   - Wigan
 
 ---
-![Rickie Lambert celebrates after scoring against Manchester City](http://www.footballdigest.org/wp-content/uploads/2012/08/Rickie-Lambert-Southampton.jpg)
+![Rickie Lambert celebrates after scoring against Manchester City](/uploads/2012/08/Rickie-Lambert-Southampton.jpg)
 
 There's something nostalgic about Southampton's timely return to the Premier League. I remember the days Anders Svensson, James Beattie, Brett Ormerod to name a few. Who could ever forget James Beattie's penalty taking technique? And those 23 goals his scored in the league?  
 A decade or so on and Southampton have built themselves up from the lowest of the low and have reached the adored Premier League again. This time, the likes of Rickie Lambert and Adam Lallana will hope to fire Southampton to safety, despite a rather frustrating start. Last weekends <!--more--> defeat at home to Wigan Athletic, had papers claiming that the Saints would find it hard to keep themselves in the top division this season, however from their first performances away to champions Manchester City: Nigel Adkins side have plenty in their locker to stay afloat.
@@ -29,7 +29,7 @@ Liverpool tried to sign him, but he liked the ambition Southampton were showing,
 While the home affair with Wigan was a game that Southampton really should have been winning, there are plenty of points yet to play for and fans need to relax quite a bit.  
 I watched their encounter with City in Manchester; the passing, movement, and understanding between the majority of the Southampton players was very impressive for a newly promoted side.
 
-![Nigel Adkins looks on during a Premier League match](http://www.footballdigest.org/wp-content/uploads/2012/08/Nigel-Adkins-Southampton.jpg)
+![Nigel Adkins looks on during a Premier League match](/uploads/2012/08/Nigel-Adkins-Southampton.jpg)
 
 Their two goals were excellent finishes; clinical and accurate.  
 The build-up to those goals was very positive and if they can play that type of football against the best team in the league away from home - who knows what they can do against slightly easier opposition from now until the end of the season.

@@ -15,7 +15,7 @@ tags:
   - West Bromwich Albion
 
 ---
-![Romelu Lukaku in action for Chelsea during pre-season](http://www.footballdigest.org/wp-content/uploads/2012/08/Romelu-Lukaku-Chelsea.jpg)
+![Romelu Lukaku in action for Chelsea during pre-season](/uploads/2012/08/Romelu-Lukaku-Chelsea.jpg)
 
 I must say I'm quite surprised by this move.   
 Romelu Lukaku, lured from Belgium for a reported fee of £18m just last summer, hasn't really had much playing time in a Chelsea shirt and this move to West Brom should provide him with regular Premier League football. A very physical, and commanding CF; Lukaku will prove a real bundle for any opposition this season. Fulham were looking to land the 19 year-old but West Brom have managed to get a deal over the line to mark a fantastic piece of business by Steve Clarke.   

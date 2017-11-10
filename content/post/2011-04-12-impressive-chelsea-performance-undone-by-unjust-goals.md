@@ -24,7 +24,7 @@ tags:
   - UEFA Champions League
 
 ---
-![Ji Sung Park celebrates scoring for Manchester United against Chelsea](http://www.footballdigest.org/wp-content/uploads/2011/04/Ji-Sung-Park-Manchester-United.jpg)
+![Ji Sung Park celebrates scoring for Manchester United against Chelsea](/uploads/2011/04/Ji-Sung-Park-Manchester-United.jpg)
 
 Manchester United reign supreme once again. Instead of Rooney or Giggs nabbing the all important goals, there is a new man continuing to bore his way into Manchester United's famous history. Chicharito Hernandez. The Mexican - who impressed me for one at the 2010 World Cup in South Africa was on the end of a brilliant low Ryan Giggs cross-shot, which he drove into the root of the net. Despite Chelsea's first half dominance which saw United chase shadows for prolonged period;, neither Frank Lampard nor Anelka had their shooting boots on, and wasted some excellent opportunities to send Chelsea into a comfortable HT lead.
 

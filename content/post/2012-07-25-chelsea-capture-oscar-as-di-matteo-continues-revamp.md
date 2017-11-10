@@ -16,7 +16,7 @@ tags:
   - Roberto di Matteo
 
 ---
-![Internacional's Oscar in action for the Brazilian side](http://www.footballdigest.org/wp-content/uploads/2012/07/Oscar-Chelsea.jpg)
+![Internacional's Oscar in action for the Brazilian side](/uploads/2012/07/Oscar-Chelsea.jpg)
 
 If people questioned whether di Matteo had the backing of owner Roman Abramovich in the transfer market, then surely their latest acquisition confirms he does. Oscar, the much talked about Brazilian - who will feature at the Olympics - signed for Chelsea today, in a move reportedly worth £25m to the South American outfit. Not bad money, if you can get it.  
 After already completing the signing of the mercurial Eden Hazard in a move that cost the London side in the upper regions of £35m - it doesn't take much to notice that Chelsea mean business this season, big time. The <!--more--> Champions League winners want to reestablish themselves at the top of the table, and rival Manchester City in every way, shape, and form. They've started with the transfer market side of things. 
@@ -25,7 +25,7 @@ Oscar dos Santos Emboaba Júnior by trade, or on paper at least, is an attacking
 
 Of course Oscar will take a little bit of time to get used to the Premier League, and in reality; we might not see very much of him in the first half of the season. He's a slight fellow, so the physicality of the EPL will come as a surprise to the Brazilian. Of course he'll look his teammate Ramires and even Luka Modric as perfect examples of players that don't boast a physical presence, but at the same, are two of the finest players in the league without a shadow of a doubt.
 
-[Oscar in action for Brazil](http://www.footballdigest.org/wp-content/uploads/2012/07/Oscar-Brazil.jpg)
+[Oscar in action for Brazil](/uploads/2012/07/Oscar-Brazil.jpg)
 
 Saying that, once he does get familiar with the English way of football, he'll find his niche in the game and begin to churn out some very good performances. For £25m, Chelsea are hoping for a return on their investment, but I'm sure they're willing to give the lad time to prove himself.
 

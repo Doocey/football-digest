@@ -19,7 +19,7 @@ tags:
   - Thiago Alcantara
 
 ---
-![Thiago Alcantara in action for Barcelona](http://www.footballdigest.org/wp-content/uploads/2013/07/Thiago-Alcantara-Barcelona.jpg)
+![Thiago Alcantara in action for Barcelona](/uploads/2013/07/Thiago-Alcantara-Barcelona.jpg)
 
 Thiago Alcantara seems to be the man on the lips of every Manchester United fan out there. His vision, passing range, general composure on the ball would give the Red Devils an overdue holding midfielder. He would be the signing to well and truly stamp David Moyes' authority on the team. Having just recently won the U21 European Championship with Spain (he scored a hattrick in the final against Italy) Thiago seems primed for a career defining decision. His rather dubious transfer clause at the Nou Camp means the technically gifted Spaniard can leave for another team for a very reasonable <!--more--> fee and United seem like they could be close to securing what would represent one of the club's biggest coups in recent years. It would be a fantastic capture for the club, for David Moyes, for the supporters - but not for Thiago himself, far from it.
 

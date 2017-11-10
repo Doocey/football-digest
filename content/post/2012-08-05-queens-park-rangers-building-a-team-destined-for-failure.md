@@ -17,7 +17,7 @@ tags:
   - Queens Park Rangers
 
 ---
-![Mark Hughes on the sideline at Loftus Road](http://www.footballdigest.org/wp-content/uploads/2012/08/Mark-Hughes-QPR.jpg)
+![Mark Hughes on the sideline at Loftus Road](/uploads/2012/08/Mark-Hughes-QPR.jpg)
 
 To say QPR avoided relegation by the skin of their teeth on the final day of the season, would be putting it lightly.   
 At one stage in their last game, they were losing away to a title bound Manchester City, while the other side attempting to avoid relegation, Bolton Wanderers were winning away at Stoke City.  
@@ -30,7 +30,7 @@ Staying in the Premier League helped the London side - owner by airline tycoon T
 Now, as Mark Hughes looks to build for the future, he has already secured an array of players that he hopes will fire QPR to a respectable finish in the Premier League this forthcoming season.   
 Andy Johnson, Ryan Nelsen, Rob Green, Samba Diakite, Junior Hoilett, and Park Ji-Sung have all signed the dotted line at Loftus Road in the last month with Hoilett, the most notable of arrivals.
 
-![Ji Sung-Park signs contract at Loftus Road](http://www.footballdigest.org/wp-content/uploads/2012/08/Ji-Sung-Park-QPR.jpg)
+![Ji Sung-Park signs contract at Loftus Road](/uploads/2012/08/Ji-Sung-Park-QPR.jpg)
 
 The likes of Park, Nelsen, Johnson and Green are all well into their thirties and their best footballing days are _well_ and truly behind them at this stage. Johnson is injury prone and likely to spend some period of the upcoming season on the sidelines, while Nelsen and Park haven't played prolonged first team football in quite a while.   
 It really doesn't make for good reading for QPR fans, at least, in my opinion.

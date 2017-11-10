@@ -20,7 +20,7 @@ tags:
   - UEFA Champions League
 
 ---
-![Lionel Messi in action for Barcelona at Camp Nou](http://www.footballdigest.org/wp-content/uploads/2011/04/Lionel-Messi-Barcelona.jpg)
+![Lionel Messi in action for Barcelona at Camp Nou](/uploads/2011/04/Lionel-Messi-Barcelona.jpg)
 
 Barcelona may well have the league title wrapped up in cotton wool, but their Champions League hopes hang by a thread following a 2-0 defeat away at AC Milan a week ago. The Italians head into the return leg next week with an unlikely two goal advantage, and will hoping to see out a Barcelona onslaught at the Nou Camp in under a weeks time. A lot of people claim that the Barcelona of 2012/13 are not quite as good as their team the year previous but the performances of Lionel Messi have been nothing short of majestic, notching up 39 goals in the La Liga alone, with a real chance of hitting the <!--more--> 50 league goal mark this season.
 

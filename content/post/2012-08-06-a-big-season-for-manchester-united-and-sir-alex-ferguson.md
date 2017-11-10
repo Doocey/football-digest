@@ -17,7 +17,7 @@ tags:
   - Premier League
 
 ---
-![Sir Alex Ferguson during an interview"](http://www.footballdigest.org/wp-content/uploads/2012/08/Sir-Alex-Ferguson.jpg)
+![Sir Alex Ferguson during an interview"](/uploads/2012/08/Sir-Alex-Ferguson.jpg)
 
 When Sergio Agüero smashed home _that_ goal in the 94th minute at the Etihad on the final day of the season, it sent a message to all associated with Manchester United that City - their biggest rivals - meant business.   
 Finally, after years of watching their neighbours enjoy incredible success in almost every club competition, City themselves had managed to capture the league trophy in the most dramatic of finishes I've ever had the pleasure of watching. As the 2012/13 Premier League approaches, Mancini and MCFC will be hoping to retain the title while also attempting <!--more--> to bring the coveted Champions League trophy to the Blueside of Manchester.
@@ -29,7 +29,7 @@ In in the last day or so, they were closing in on the highly rated Brazilian, Lu
 
 The forthcoming season is one of huge significance to Manchester United. For obvious reasons, winning back the title would be fantastic, but to grab the trophy out of Manchester City's hands would be even sweeter. A lot of people are predicting that City will retain the title, but I have a feeling, and I hope, that Sir Alex Ferguson will be the one with the elusive silverware at the end of the season.
 
-![Shinji Kagawa in training with Manchester United](http://www.footballdigest.org/wp-content/uploads/2012/08/Shinji-Kagawa-MUFC.jpg)
+![Shinji Kagawa in training with Manchester United](/uploads/2012/08/Shinji-Kagawa-MUFC.jpg)
 
 City's wild spending helped them to the title last season, but to be fair, it took absolute guts, grit and determination to come back against QPR and win it the way they did. For that, they deserve immense credit. However, despite the fact that United cannot seemingly compete with City's spending, they still have the quality to oust opposition and make the 2012/13 Premier League theirs.
 

@@ -22,7 +22,7 @@ tags:
   - West Bromwich Albion
 
 ---
-![Ole Gunnar Solskjaer looks on as Cardiff City boss](http://www.footballdigest.org/wp-content/uploads/2014/03/Ole-Gunnar-Solskjaer-Cardiff.jpg)
+![Ole Gunnar Solskjaer looks on as Cardiff City boss](/uploads/2014/03/Ole-Gunnar-Solskjaer-Cardiff.jpg)
 
 It's that time of the season again, right? Battles begin to form at either end of the table, with the most worried supporters finding their team at the base of the Premier League. Fulham, Cardiff City, Sunderland, Crystal Palace, West Brom, Norwich City, and indeed Swansea City all figure in perilous situations.   
 With April fast approaching, the remaining two game weeks of March could go a long way in defining who will remain England's top division for the 2014/15 season. While Manchester City, Chelsea and Liverpool battle it out to be crowned the league's elite, a handful of teams sweat it out in <!--more--> an equally fascinating contest.

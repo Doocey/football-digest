@@ -19,7 +19,7 @@ tags:
   - Tim Howard
 
 ---
-![Football Digest - FFF](http://www.footballdigest.org/wp-content/uploads/2013/02/Fantasy-Football-Focus1.jpg)
+![Football Digest - FFF](/uploads/2013/02/Fantasy-Football-Focus1.jpg)
 
 It's that stage of the season again. Your Fantasy League team is either - in my case - trailing behind your mate's teams, or if you're one of the lucky ones, you are looking to pull away at the top of the table. We have just entered February, the month where Fantasy Football business well and truly enters the final straight. Who do you choose to captain your team? Who do you trust between the sticks to keep a clean sheet and pull off a few saves? Indeed, who do you slot in midfield with the expectancy they will goal creator for your forwards? What player can you pick that will gain you valuable points that your rivals won't? And no, Shola Ameobi is not the right answer to that question.
 

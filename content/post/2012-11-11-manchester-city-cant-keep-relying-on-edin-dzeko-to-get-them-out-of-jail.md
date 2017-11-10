@@ -20,7 +20,7 @@ tags:
   - Tottenham
 
 ---
-![Eden Dzeko celebrates scoring the winner against Tottenham Hotspur](http://www.footballdigest.org/wp-content/uploads/2012/11/Eden-Dzeko-Manchester-City.jpg)
+![Eden Dzeko celebrates scoring the winner against Tottenham Hotspur](/uploads/2012/11/Eden-Dzeko-Manchester-City.jpg)
 
 To say Eden Džeko is becoming a bit of a 'super-sub' would be a slight understatement. Yet again the powerful Bosnian showed up with at the death, to ensure an extremely important 3 points for Manchester City, and stake yet another claim for a starting role at the Etihad.  
 It seems this season that Manchester City must concede before they actually start playing football.   
@@ -34,7 +34,7 @@ A week earlier they just about ousted Swansea City at home in a less than perf
 
 Two late goals from Dzeko away at West Brom one week previous to the Swansea result saved them from a poor defeat, and again today the Bosnian popped up win the decisive goal. But, just how much longer can this go on? How much longer can Dzeko keep saving his side from dropping points?
 
-![Manchester City's Mancini looks on during a Premier League game](http://www.footballdigest.org/wp-content/uploads/2012/11/Mancini-Manchester-City.jpg)
+![Manchester City's Mancini looks on during a Premier League game](/uploads/2012/11/Mancini-Manchester-City.jpg)
 
 I'm sure a lot of you will remember the final day of the season when Manchester City looked as if they had gifted the title to their rivals Manchester United, only to mount a comeback in injury time. Eden Dzeko also appeared with a header in that game to ensure a thrilling final couple of minutes, but the game should never have come to that. Queens Park Rangers at home should have an easy three points regardless of what stage of the season it is, but City love to makes things hard for themselves.
 

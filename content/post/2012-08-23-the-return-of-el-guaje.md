@@ -20,7 +20,7 @@ tags:
   - Pedro
 
 ---
-![David Villa celebrates after scoring for Barcelona](http://www.footballdigest.org/wp-content/uploads/2012/08/David-Villa-FC-Barcelona.jpg)
+![David Villa celebrates after scoring for Barcelona](/uploads/2012/08/David-Villa-FC-Barcelona.jpg)
 
 Sunday night must have been well worth the wait for newly bearded David Villa.  
 
@@ -33,7 +33,7 @@ While the goal had no real impact on the result, fans still rejoiced in unison, 
 The question now is, though, whether Villa can reclaim his place on the podium as Spain's most prolific striker.   
 Having missed out on a year where the Catalans failed to capture the league title in Pep's everlasting list of accolades, Villa's return will take some of the much-needed pressure of little Leo Messi's shoulders. Although _La Pulga_ enjoyed his finest season to date, grabbing a mind-blowing 73 goals across all competitions, and a handful more of assists, he can’t be the only one scoring or else Barcelona’s overeliance on the 25-year-old may come back to haunt them. Xavi was one player to step up last season while Villa was out, having been pushed “10-15 metres further” up the pitch with Guardiola at the helm and it showed as he finished the season with his best ever goal-scoring campaign, entering double figures.
 
-![David Villa takes off his shirt after scoring for Barcelona against Sociedad](http://www.footballdigest.org/wp-content/uploads/2012/08/David-Villa-Sociedad.jpg)
+![David Villa takes off his shirt after scoring for Barcelona against Sociedad](/uploads/2012/08/David-Villa-Sociedad.jpg)
 
 Last season, although the diminutive Argentine rewrote the record books in exhilarating fashion, Barça looked jaded when the responsibility relied elsewhere. Last season Messi was directly responsible for 57.8% of Barçelona's goals in the league, compared to just 51.5% a season prior, as well as Messi improving his shot per game by one from 2010/11. This represents the increased workload Messi's been forced to take on because of the Spaniard's long-term absence. (Barça may have achieved a significantly higher amount of goals scored last season but that is down to the one-man mission that Messi undertook.)
 

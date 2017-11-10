@@ -23,7 +23,7 @@ tags:
   - World Cup 2002
 
 ---
-![Keith Andrews runs off to celebrate after scoring Ireland's opening goal in Tallinn](http://www.footballdigest.org/wp-content/uploads/2011/11/Keith_Andrews_Ireland.jpg)
+![Keith Andrews runs off to celebrate after scoring Ireland's opening goal in Tallinn](/uploads/2011/11/Keith_Andrews_Ireland.jpg)
 
 **THIS** time two years ago Ireland were gearing up for France, and their arrival to Croke Park for the first leg of a World Cup 2012 play-off.
 

@@ -19,7 +19,7 @@ tags:
   - Sunderland 1-1 Liverpool
 
 ---
-![Andy Carroll in action for West Ham](http://www.footballdigest.org/wp-content/uploads/2012/09/Andy-Carroll-West-Ham.jpg)
+![Andy Carroll in action for West Ham](/uploads/2012/09/Andy-Carroll-West-Ham.jpg)
 
 If there is one thing any neutral supporter, or indeed Liverpool fan learned from today's draw with Sunderland - it's that Brendan Rodgers has a _real_ job on his hands.  
 I ended up watching this evenings game as it was the only thing on TV. My word, what a shocking game it was. Both sides were truly dreadful. For anyone who didn't actually see the game; don't be fooled by the fact there were a couple of goals.   
@@ -36,7 +36,7 @@ I realise that the team itself will need at least a dozen games before they can 
 I just can't figure out how Liverpool messed up _so badly_ in the transfer window on all fronts.   
 They let Kuyt go and then ridiculously let Andy Carroll out on loan to West Ham without bringing a striker in as his replacement.
 
-![Brendan Rodgers watches on from the sidelines](http://www.footballdigest.org/wp-content/uploads/2012/09/Brendan-Rodgers-Liverpool.jpg)
+![Brendan Rodgers watches on from the sidelines](/uploads/2012/09/Brendan-Rodgers-Liverpool.jpg)
 
 Clint Dempsey was link intensively with LFC throughout the window and it looked like a deal wasn't far away only for Fulham to reject their bid, and instead accept an approach from Andre Villas Boas and Tottenham Hotspur. The window slammed shut and Liverpool were left high and dry. Forget about bringing in Borini or Assaidi - they simply didn't sign a striker that'll score you goals.
 

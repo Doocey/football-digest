@@ -23,7 +23,7 @@ tags:
   - Uruguay
 
 ---
-![John Terry in action for Chelsea](http://www.footballdigest.org/wp-content/uploads/2014/06/John-Terry-Chelsea.jpg)
+![John Terry in action for Chelsea](/uploads/2014/06/John-Terry-Chelsea.jpg)
 
 The 2014 World Cup marked a too familiar story for England and their fans. An opening loss to Italy dealt the nation with an irreparable blow that ultimately saw their exit from the worlds biggest sporting tournament.
 
@@ -37,7 +37,7 @@ Dunphy claimed that the Blues' defender should have been at the heart of the def
 
 However, such exchanges weren't just native to RTE2 and Dunphy, but across the board, including the _BBC_, _ITV_, and indeed the _Telegraph_. Former Arsenal defender Tony Adams investigated the crucial mistakes made by Hodgson in his defensive setup - a pretty irrelevant article to publish **after** England's exit.
 
-[John Terry in action for England](http://www.footballdigest.org/wp-content/uploads/2014/06/John-Terry-England.jpg)
+[John Terry in action for England](/uploads/2014/06/John-Terry-England.jpg)
 
 Personally, there should be no debate. Roy Hodgson's decision to bring the squad he did, was completely justified. John Terry - who had no part to play in the side's qualification for Brazil - had absolutely no right to be on the plane to Brazil. Why would he?
 

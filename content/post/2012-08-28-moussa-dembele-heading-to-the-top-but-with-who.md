@@ -20,7 +20,7 @@ tags:
   - White Hart Lane
 
 ---
-![Moussa Dembélé in action for Fulham"](http://www.footballdigest.org/wp-content/uploads/2012/08/Moussa-Dembélé-Fulham.jpg)
+![Moussa Dembélé in action for Fulham"](/uploads/2012/08/Moussa-Dembélé-Fulham.jpg)
 
 I remember watching Moussa Dembélé during his days at AZ Alkmaar and thinking to myself what a fine footballer this fella was going to be.   
 Fast-forward five or six years, and Moussa is plying his trade in top league in the world, with Fulham. However, he might not be a Cottager for much longer as the likes of Tottenham Hotspur, Manchester United and even Real Madrid, have all been linked with a move for the skillful Belgian.  

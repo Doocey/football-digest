@@ -19,7 +19,7 @@ tags:
   - Tottenham Hotspurs
 
 ---
-![Luka Modric in action for Tottenham Hotspur](http://www.footballdigest.org/wp-content/uploads/2012/07/Luka-Modric-Tottenham.jpg)
+![Luka Modric in action for Tottenham Hotspur](/uploads/2012/07/Luka-Modric-Tottenham.jpg)
 
 First it was Redknapp, now it seems their star man is heading towards the door at White Hart Lane. Much alike the van Persie case involving their neighbours; the news has been a long time coming. It seems only a matter of days before Luka Modric completes a move to Spanish champions Real Madrid for a fee in the region of £30m.  
 Last summer Chelsea offered a fee of £40m for the Croatian but somehow, Spurs chairman Daniel Levy managed to block any move, in the hope that the creative midfielder would help Tottenham grab a Champions League spot.

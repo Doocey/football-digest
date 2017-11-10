@@ -77,7 +77,7 @@ Depending on the next few transfers and moves, if Newcastle United do not finish
 
 This is my lineup for the starting 11 vs Southampton on Sunday.
 
-[Aziz's lineup](http://www.footballdigest.org/wp-content/uploads/2015/08/Newcastle-XI-Southampton-e1438876621755.png)
+[Aziz's lineup](/uploads/2015/08/Newcastle-XI-Southampton-e1438876621755.png)
 
 
  [1]: http://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-ban-mobile-phones-9593642

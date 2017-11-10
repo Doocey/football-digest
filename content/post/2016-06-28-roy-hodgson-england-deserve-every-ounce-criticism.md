@@ -11,7 +11,7 @@ categories:
   - EURO 2016
 ---
 
-![Roy Hodgson & England deserve every ounce of criticism they get](http://www.footballdigest.org/wp-content/uploads/2016/06/Roy-Hodgson-Euro-2016-Iceland.jpg "Roy Hodgson")
+![Roy Hodgson & England deserve every ounce of criticism they get](/uploads/2016/06/Roy-Hodgson-Euro-2016-Iceland.jpg "Roy Hodgson")
 
 The world of football was sent reeling into chaos on Monday evening as Euro 2016 minnows Iceland unceremoniously dumped England out of tournament, marking yet another disastrous campaign for Three Lions manager Roy Hodgson and his backroom staff. Upsets in football happen more regularly than you might think, but few could argue that Iceland did not deserve their victory. Despite being awarded and converting a penalty just four minutes into the tie - England fell off the side of a cliff. What was about to unravel - starting just 70 seconds later - will forever be remembered in European Championship history.
 
@@ -21,7 +21,7 @@ While the manner of England's exit may surprise somewhat - the writing was on th
 
 The criticism of Hodgson and the whole England setup is entirely fair. For a man who received £14m in wages throughout his tenure as manager, he has nothing to show for it. An early exit from Euro 2012, a disgraceful World Cup campaign in 2014, and now the top it all off - elimination in the Last 16 by the smallest nation in the tournament.
 
-![Jack Wilshere and Ross Barkley during an England training session](http://www.footballdigest.org/wp-content/uploads/2016/06/Ross-Barkley-Jack-Wilshere-England.jpg)
+![Jack Wilshere and Ross Barkley during an England training session](/uploads/2016/06/Ross-Barkley-Jack-Wilshere-England.jpg)
 
 ## Terrible Squad - Too Much Loyalty
 
@@ -41,7 +41,7 @@ Let's just have a look at the players in **bold**.
 
 **Adam Lallana** - Should Lallana really be in that squad either when you have the likes of Andros Townsend raring to go after a fine individual end to the Premier League season? Questioning Lallana's inclusion may be one of the harsher calls, but while undoubtedly skilful - he was anonymous in all of England's matches. He doesn't offer directness, pace, or much of a threat in front of goal either. A passenger in the England XI.
 
-![Raheem Sterling in action for England](http://www.footballdigest.org/wp-content/uploads/2016/06/Raheem-Sterling-England-Euro-2016.jpg)
+![Raheem Sterling in action for England](/uploads/2016/06/Raheem-Sterling-England-Euro-2016.jpg)
 
 **Raheem Sterling** - The £50m man who barely played for his club all season and looks bereft of confidence. Why of course Roy Hodgson has to start him in all of his Euro 2016 games. Sterling made one contribution to the campaign by winning an early penalty against Iceland, but aside from that he was unbelievably poor - missing an absolute sitter against Wales in the groups too, if I remember correctly. Shouldn't be near the starting eleven, if even the squad.
 
@@ -51,7 +51,7 @@ Let's just have a look at the players in **bold**.
 
 **Wayne Rooney** - Well, well, well. Another pitiful year for the £300,000 a week captain. A poor season with his club, confusion over where his best position on the pitch is, but of course he starts?! In midfield?! Did convert his penalty against Iceland, but over the four games, he constantly slowed down any urgency in England's play. A hindrance to the team - and didn't nothing on a club level to merit a place in the squad to be honest.
 
-![A dejected Roy Hodgson looks on during Euro 2016](http://www.footballdigest.org/wp-content/uploads/2016/06/Roy-Hodgson-Euro-2016-Dejected.jpg)
+![A dejected Roy Hodgson looks on during Euro 2016](/uploads/2016/06/Roy-Hodgson-Euro-2016-Dejected.jpg)
 
 ## England's 2016 Failure - Created & Directed by Roy Hodgson
 

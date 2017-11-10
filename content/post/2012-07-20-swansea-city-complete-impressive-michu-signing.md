@@ -17,7 +17,7 @@ tags:
   - Swansea City
 
 ---
-![Michu in action for Rayo](http://www.footballdigest.org/wp-content/uploads/2012/07/Michu-Swansea-City.jpg)
+![Michu in action for Rayo](/uploads/2012/07/Michu-Swansea-City.jpg)
 
 While Gylfi Sigurdsson may have opted to sign for Andre Villas Boas's Tottenham, and despite the fact Joe Allen looks likely to link up with Brendan Rodgers at Liverpool; there is good news for Swansea fans across the globe.  
 After agreeing a fee of £2m, Michael Laudrup today completed the signing of Rayo Vallecano's attacking midfielder Michu. The Spaniard signed a three year deal, and after an excellent 15 goals last season for a side that escaped the drop on the final day of the season in the La Liga, this signing is nothing less than an absolute bargain. Michu becomes <!--more--> Laudrup's third signing after taking over at the Liberty Stadium following Brendan Rodger's move departure to Liverpool, with de Guzman and Chico already in the bag. 

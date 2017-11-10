@@ -16,7 +16,7 @@ tags:
   - Premier League
 
 ---
-![Demba Ba in action for Newcastle United against Stoke](http://www.footballdigest.org/wp-content/uploads/2012/07/Demba-Ba-Newcastle-United.jpg)
+![Demba Ba in action for Newcastle United against Stoke](/uploads/2012/07/Demba-Ba-Newcastle-United.jpg)
 
 When Demba Ba hit double figures extremely early on in the Premier League last season, people immediately began to ponder where the Senegalese forward would be playing his football in 2012, they certainly didn't expect it to be St.James' Park. These are the same people who said NUFC would fade away from the Top 6 in the New Year.  
 However, despite constant rumours and the best efforts of the London media; Demba Ba's much publicised £7.5m release clause will expire at midnight, tonight. Unless some club makes a quick move to offer the cash, and <!--more--> agree unarguably intricate terms - Demba Ba will be wearing Black and White next season. You'd have to say Newcastle United have done very well indeed.
@@ -25,7 +25,7 @@ This is a guy who managed almost 20 goals in his first full Premier League seaso
 
 He was deployed on the left-wing for the most of 2012, and was involved in a lot of Papiss' goals. His trojan work down the wing, linking up with Jonas, and even Ben Arfa helped Newcastle United secure a remarkable 5th placed finish. Remember, Ba was Andy Carroll's replacement and he arrived on a free from the, then relegated West Ham. Bit of a bargain, eh?
 
-![Demba Ba in action against Blackburn](http://www.footballdigest.org/wp-content/uploads/2012/07/download2.jpg)
+![Demba Ba in action against Blackburn](/uploads/2012/07/download2.jpg)
 
 As the clock ticks towards midnight, NUFC fans will be delighted in knowing that if Ba _is_ to leave this summer, it won't be for a measly seven and half million pounds.
 

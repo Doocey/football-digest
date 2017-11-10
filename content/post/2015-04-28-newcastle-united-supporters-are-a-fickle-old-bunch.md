@@ -52,7 +52,7 @@ But _hey, Newcastle United fans are fickle right? They're never happy, they dem
 
 The only thing that Newcastle United supporters demand is **effort** from everyone concerned. That includes the players. A considerable number of the squad should hang their head in shame at their efforts this season. 5 derby losses in a row, going down without a whimper on countless of occasions. Paid tens of thousands a week, and they look like it's a hindrance to them. A joke.
 
-[Newcastle United's form in 2015](http://www.footballdigest.org/wp-content/uploads/2015/04/Newcastle-United-Form.jpg)
+[Newcastle United's form in 2015](/uploads/2015/04/Newcastle-United-Form.jpg)
 
 This leads me towards the end. We have an owner that won't speak to fans.
 
