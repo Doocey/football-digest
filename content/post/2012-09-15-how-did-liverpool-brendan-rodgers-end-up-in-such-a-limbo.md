@@ -52,4 +52,4 @@ Anyway, with all the aforementioned taken into account, I want to know what you,
 
 Comments welcome 🙂
 
- [1]: http://www.footballdigest.org/2012/08/14/steven-fletcher-one-of-the-most-underrated-strikers-in-the-premier-league/
+ [1]: https://www.footballdigest.org/2012/08/14/steven-fletcher-one-of-the-most-underrated-strikers-in-the-premier-league/

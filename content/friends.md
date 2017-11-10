@@ -13,4 +13,4 @@ dsq_thread_id:
 
 **Want your site on this list? Shoot us an email over at the [Contact][1] page.**
 
-[1]: http://www.footballdigest.org/contact/ "Contact Football Digest"
+[1]: https://www.footballdigest.org/contact/ "Contact Football Digest"

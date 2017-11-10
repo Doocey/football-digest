@@ -42,6 +42,6 @@ There is already word that Mbemba might be joining Mitrovic in a double Anderlec
 
 No doubt Wijnaldum and Mitrovic have something to do with that, and not to mention the new culture and attitude that Steve McClaren is bringing to this club. It is reasonable to be pessimistic as a Newcastle fan but times like these need to be seen in a positive light, with hopefully an even bigger light at the end of the tunnel. This isn’t the end; this is merely the beginning of an altered **Newcastle United**.
 
- [1]: http://www.footballdigest.org/2015/07/03/an-inside-look-at-newcastle-uniteds-jamaal-lascelles/
+ [1]: https://www.footballdigest.org/2015/07/03/an-inside-look-at-newcastle-uniteds-jamaal-lascelles/
  [2]: http://www.nufc.co.uk/articles/20150505/an-open-letter-from-the-captain_2281670_4693743
  [3]: ttp://www.mirror.co.uk/sport/football/transfer-news/aleksandar-mitrovics-newcastle-transfer-expected-6093891

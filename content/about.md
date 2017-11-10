@@ -6,7 +6,7 @@ date: 2011-01-21T21:07:20+00:00
 description: How Football Digest started, and how far it has come.
 ---
 
-![About FootballDigest.org](http://www.footballdigest.org/wp-content/uploads/2011/01/About-Football-Digest.jpg)
+![About FootballDigest.org](/wp-content/uploads/2011/01/About-Football-Digest.jpg)
 
 Welcome. The idea of Football Digest was originally born in early 2011. However, through various other commitments, the foundations for the site weren't laid until mid 2011. With more time, I (Kevin) decided to sit down, design and optimize the site to it's full potential. As you might have gathered from the picture on your right; I'm Irish and with that, I have a lot to say, especially when it comes to English football! However, do not let that deter you from having a regular read around.
 
@@ -18,5 +18,5 @@ Finally, if you feel you would like to have some of your own thoughts read by th
 
 Thanks.
 
- [1]: http://www.footballdigest.org/ "Football Digest"
+ [1]: https://www.footballdigest.org/ "Football Digest"
  [2]: http://twitter.com/kevindoocey "kevin doocey twitter"

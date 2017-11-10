@@ -50,5 +50,5 @@ Despite all of these signings, there are still some needs across the club’s ro
 Buckle up for an interesting upcoming 48 hours. Will it be a dull close to the transfer window for NUFC? or an exciting one. We shall see.
 
  [1]: https://twitter.com/NUFC360
- [2]: http://www.footballdigest.org/2015/07/25/an-inside-look-at-aleksandar-mitrovic-and-why-it-was-always-him-or-charlie-austin/
+ [2]: https://www.footballdigest.org/2015/07/25/an-inside-look-at-aleksandar-mitrovic-and-why-it-was-always-him-or-charlie-austin/
  [3]: http://www.chroniclelive.co.uk/sport/football/transfer-news/papiss-cisse-could-still-leave-9954949?utm_source=dlvr.it&utm_medium=twitter

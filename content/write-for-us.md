@@ -5,7 +5,7 @@ type: page
 date: 2012-08-02T22:27:08+00:00
 description: Want to write about football? Want to have thousands read your work? Football Digest offers anyone who wants to talk about football, the chance to do that.
 ---
-![Write for Football Digest](http://www.footballdigest.org/wp-content/uploads/2012/08/Write-For-Football-Digest1.jpg)
+![Write for Football Digest](/wp-content/uploads/2012/08/Write-For-Football-Digest1.jpg)
 
 In the journalism industry, getting noticed and having your work recognised is a very difficult task. Here at Football Digest, we plan on making things a little bit easier for you.
 
@@ -21,5 +21,5 @@ All your articles can contribute to your portfolio of work, and make that CV/Ré
 
 You can shoot us an email [over here][2] and we'll set things up for you!
 
- [1]: http://www.footballdigest.org/wp-content/uploads/2012/08/Write-For-Football-Digest1.jpg
- [2]: http://www.footballdigest.org/contact "Contact Football Digest"
+ [1]: https://www.footballdigest.org/wp-content/uploads/2012/08/Write-For-Football-Digest1.jpg
+ [2]: https://www.footballdigest.org/contact "Contact Football Digest"

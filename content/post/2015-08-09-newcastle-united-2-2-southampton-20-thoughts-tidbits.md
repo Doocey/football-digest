@@ -60,4 +60,4 @@ Below I’ve listed my 20 thoughts and tidbits on the match:
 
 **Crowd:** 49,710
 
- [1]: http://www.footballdigest.org/2015/08/06/10-keys-to-a-successful-season-at-newcastle-united/
+ [1]: https://www.footballdigest.org/2015/08/06/10-keys-to-a-successful-season-at-newcastle-united/

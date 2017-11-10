@@ -81,7 +81,7 @@ This is my lineup for the starting 11 vs Southampton on Sunday.
 
 
  [1]: http://www.chroniclelive.co.uk/sport/football/football-news/newcastle-united-ban-mobile-phones-9593642
- [2]: http://www.footballdigest.org/2015/07/25/an-inside-look-at-aleksandar-mitrovic-and-why-it-was-always-him-or-charlie-austin/
- [3]: http://www.footballdigest.org/2015/06/25/the-curious-case-of-jack-colback-as-my-candidate-to-become-nufcs-next-captain/
- [4]: http://www.footballdigest.org/2015/07/19/new-defenders-will-be-key-to-changing-newcastle-united/
- [5]: http://www.footballdigest.org/2015/08/02/an-inside-look-at-chancel-mbemba-and-cbs-nufc-should-target/
+ [2]: https://www.footballdigest.org/2015/07/25/an-inside-look-at-aleksandar-mitrovic-and-why-it-was-always-him-or-charlie-austin/
+ [3]: https://www.footballdigest.org/2015/06/25/the-curious-case-of-jack-colback-as-my-candidate-to-become-nufcs-next-captain/
+ [4]: https://www.footballdigest.org/2015/07/19/new-defenders-will-be-key-to-changing-newcastle-united/
+ [5]: https://www.footballdigest.org/2015/08/02/an-inside-look-at-chancel-mbemba-and-cbs-nufc-should-target/

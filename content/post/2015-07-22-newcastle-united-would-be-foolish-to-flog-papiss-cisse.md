@@ -46,4 +46,4 @@ Considering there was a serious lack of proper service from midfield last season
 He's a goalscorer - simple as that, and we likes those on Tyneside.
 
  [1]: https://youtu.be/Uucjvstiavw?t=55
- [2]: http://www.footballdigest.org/2015/07/12/meet-nufc-new-boy-georginio-gini-wijnaldum/
+ [2]: https://www.footballdigest.org/2015/07/12/meet-nufc-new-boy-georginio-gini-wijnaldum/

@@ -41,7 +41,7 @@ On Monday July 6<sup>th</sup>, NUFC held a fan forum and Steve McClaren attended
 
 Some of you may say that the culture, identity and character will never change as long as Mike Ashley is owner of the club. Whilst I tend to agree, only time will really tell if **Steve McClaren** is a “yes man” or if he will be the man to change the identity of one of the biggest clubs in the UK. As he mentioned in the e-mail, no one said this would be a quick fix. The transfers will (hopefully) eventually come, the identity of the club will (hopefully) eventually change and the days of Sir Bobby will (hopefully) return to the North-East.
 
- [1]: http://www.footballdigest.org/2015/06/30/ian-cathro-has-newcastle-fans-feeling-optimistic/
+ [1]: https://www.footballdigest.org/2015/06/30/ian-cathro-has-newcastle-fans-feeling-optimistic/
  [2]: http://www.chroniclelive.co.uk/sport/football/transfer-news/newcastle-united-keep-sell-fans-9597469
  [3]: https://www.youtube.com/watch?v=J7i-Ap5frm4
  [4]: http://whatculture.com/sport/newcastle-fans-forum-mcclaren-to-instil-new-culture-respect-and-discipline-in-magpies-squad.php

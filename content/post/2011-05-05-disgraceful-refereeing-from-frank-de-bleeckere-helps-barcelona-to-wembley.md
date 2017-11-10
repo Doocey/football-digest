@@ -47,4 +47,4 @@ This isn't the first time that Barcelona have had the referee on their side: Bar
 
 Oh and by the way, we still predicted Barcelona to progress [here][2] - let's hope you backed it!
 
- [2]: http://www.footballdigest.org/2011/04/15/barcelona-vs-real-madrid-a-neutrals-dream/
+ [2]: https://www.footballdigest.org/2011/04/15/barcelona-vs-real-madrid-a-neutrals-dream/
