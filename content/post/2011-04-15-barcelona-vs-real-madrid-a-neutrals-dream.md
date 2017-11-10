@@ -23,7 +23,7 @@ tags:
   - UEFA Champions League
 
 ---
-![Lionel Messi in action for Barcelona at Camp Nou](/uploads/2011/04/Lionel-Messi-Barcelona.jpg)
+![Lionel Messi in action for Barcelona at Camp Nou](/wp-content/uploads/2011/04/Lionel-Messi-Barcelona.jpg)
 
 It is a tie we perhaps somewhat expected to arise at some stage in the UEFA Champions League but it is now reality. After dispensing of Tottenham in a 5-0 aggregate scoreline; Real Madrid will find only Barcelona - their nearest rivals - standing between then and another Champions League title for Jose Mourinho. It is a tantalizing tie no doubt but who will progress is the most important question being asked.
 

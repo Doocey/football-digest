@@ -19,7 +19,7 @@ tags:
   - Yohan Cabaye
 
 ---
-![Mathieu Debuchy during a Ligue 1 game for Lille](/uploads/2012/07/debuchy.jpg)
+![Mathieu Debuchy during a Ligue 1 game for Lille](/wp-content/uploads/2012/07/debuchy.jpg)
 
 Following the signings of Romain Amalfitano and Gael Bigirimana, Alan Pardew is closing in on his number one target this summer: Mathieu Debuchy. You might recognise Debuchy from Euro 2012 where alongside his future teammate, Yohan Cabaye, he featured as France's most notable performer in what was a lackluster tournament for Laurent Blanc's men.   
 After prolonged discussions and various failed bids - Newcastle United finally agreed a deal for Debuchy which will see the right-back join on a 4 year deal, for a fee in the region of £7m. The signing indirectly marks an end to Danny <!--more--> Simpson's Newcastle United career as he is expected to join newly promoted Reading in the coming week.
@@ -28,7 +28,7 @@ Newcastle United fans (including myself) will be relieved to get the deal over t
 
 With Steven Taylor regaining fitness by the day, a back four including Debuchy, Coloccini, and Davide Santon is very pleasing to the eye of any NUFC fan. On paper at least, it has the makings of a very solid and tight defence and with a very good midfield & forwardline in front of them - it really is exciting times for any Geordie.
 
-![Mathieu Debuchy sits on the bench for France during their friendly with Iceland](/uploads/2012/07/debuchy2.jpg)
+![Mathieu Debuchy sits on the bench for France during their friendly with Iceland](/wp-content/uploads/2012/07/debuchy2.jpg)
 
 Of course there is always the possibility of Mike Ashley selling a key man and disrupting the rhythm in the side, but so far Pardew's signings have been done on the quiet, and seem like exciting prospects. The best thing about it all is the fact that the money we are spending on Debuchy is still part of the Andy Carroll sum, and there's more money there for any other potential signings.
 

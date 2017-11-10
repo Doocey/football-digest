@@ -20,7 +20,7 @@ tags:
   - Premier League
 
 ---
-![Brendan Rodgers looks on during a Swansea game](/uploads/2012/07/Brendan-Rodgers-LFC.jpg)
+![Brendan Rodgers looks on during a Swansea game](/wp-content/uploads/2012/07/Brendan-Rodgers-LFC.jpg)
 
 When Kenny Dalglish took over the reigns at Anfield after Roy Hodgson's tenure that was deemed a failure, Liverpool fans hoped that the day had come where Liverpool would reestablish themselves as Top 4 club, or even succeed that expectation.  
 That didn't happen, and they went on to have a dismal season which saw one of the best players banned for a considerable chunk of the campaign following a racism scandal. Their performances on the pitch were less than desirable too. José Enrique who departed Newcastle United after claiming that NUFC would never challenge for the Top 6 with <!--more--> the current blueprint in place, summed up what a season the Reds had.
@@ -29,7 +29,7 @@ They finished below Newcastle in the table, and in one of their encounters, Jos�
 
 As they approach the 2012/13 Premier League campaign however, there's a sense of cautious optimism around Liverpool with a new manager. Their new gaffer succeed in playing very pleasing football while also churning out impressive results with Swansea, on their first Premier League season ever. Fans are hoping that Brendan Rodgers can do the very same for Liverpool.
 
-![Brendan Rodgers during Liverpool's pre-season](/uploads/2012/07/rodgers.jpg)
+![Brendan Rodgers during Liverpool's pre-season](/wp-content/uploads/2012/07/rodgers.jpg)
 
 With Fabio Borini signed already, Rodgers is trying to put his own stamp on the team and enforce his footballing mentality before the PL season begins. He has already deemed Andy Carroll pretty much surplus to requirements and is willing to take almost a £20m loss on the English international. As fate would have it, Alan Pardew is waiting in the wings to resign the former number9.
 

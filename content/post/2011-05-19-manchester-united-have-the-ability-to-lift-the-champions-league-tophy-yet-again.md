@@ -31,7 +31,7 @@ tags:
   - Wembley
 
 ---
-![Alex Ferguson watches United in action against Everton](/uploads/2011/05/Alex-Ferguson.jpg)
+![Alex Ferguson watches United in action against Everton](/wp-content/uploads/2011/05/Alex-Ferguson.jpg)
 
 This Champions League Final is the same match up as two years ago; a tie which Barcelona won comfortably courtesy of Samuel Eto'o and Lionel Messi. The real thing I can remember from that game was Messi's expert header, a real piece of genius from such a small man. However, I can't see it being the same sort of scoreline this time around.
 

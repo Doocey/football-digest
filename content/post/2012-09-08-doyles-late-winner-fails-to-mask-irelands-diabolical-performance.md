@@ -18,7 +18,7 @@ tags:
   - World Cup 2014
 
 ---
-![Kevin Doyle celebrates after scoring Ireland's winner against Kazakhstan](/uploads/2012/09/Kevin-Doyle-Ireland.jpg)
+![Kevin Doyle celebrates after scoring Ireland's winner against Kazakhstan](/wp-content/uploads/2012/09/Kevin-Doyle-Ireland.jpg)
 
 When Robbie Keane slotted home an 89th minute penalty on Friday evening, there was something very reminiscent about his equaliser. Immediately most Irish fans thought of Stephen Ireland's late goal away against San Marino four years ago - a goal that saved our embarrassment until the next fixture.  
 The smash and grab in Kazakhstan prevented what was going to be Ireland's most embarrassing result in more than a decade.   
@@ -36,7 +36,7 @@ The winner however, came from route one stuff - but only the type of play that w
 
 In other words, if we play Germany in the same manner as we did against the Eurasia outfit - expect an overwhelming German win, and a clean sheet in the process. Sadly, it's likely that we will play the very same, unless we either get a new manager (not going to happen) or Trap decides to play his best players for a change (never going to happen).
 
-![James McCarthy in action against Kazakhstan](/uploads/2012/09/James-McCarthy-Ireland.jpg)
+![James McCarthy in action against Kazakhstan](/wp-content/uploads/2012/09/James-McCarthy-Ireland.jpg)
 
 One encouraging aspect of our result on Friday night was however, the inclusion of Wigan's James McCarthy in the first team.  
 Finally he has been given his chance to impress, and although he saw more balls fly over his head than an umpire at Croke Park on a Sunday evening, at least he was there and that's all that matters. He is a very talented footballer in the right type of system, but let's be honest - with Glenn Whelan alongside, it's never going to work, not in a lifetime.

@@ -18,7 +18,7 @@ tags:
   - Wembley
 
 ---
-![Arjen Robben in action for Bayern Munich](/uploads/2013/05/Arjen-Robben-FC-Bayern.jpg)
+![Arjen Robben in action for Bayern Munich](/wp-content/uploads/2013/05/Arjen-Robben-FC-Bayern.jpg)
 
 It was almost written in the script that Bayern would avenge the memories of last year's defeat to Chelsea in suiting fashion. A certain Arjen Robben obliged when - with one minute left on the clock - the Dutchman weaved his way into the Dotmund box before nudging the ball beyond a despairing Weidenfeller to finally capture the Champions League trophy for the Bavarian outfit. However, their victory was nothing near a classic, or even in any way convincing. In the first half Borussia could have been heading into half-time with a 3-1 lead only for some fine keeping from Manuel Neuer.
 

@@ -17,7 +17,7 @@ tags:
   - Robin van Persie
 
 ---
-![Robin van Persie takes a breather during a Premier League match](/uploads/2012/07/Robin-van-Persie.jpg)
+![Robin van Persie takes a breather during a Premier League match](/wp-content/uploads/2012/07/Robin-van-Persie.jpg)
 
 While Chelsea, Manchester United and even Liverpool strengthen their squad with new faces; Arsenal are facing the likely prospect of losing their key man and their top goalscorer last season. It has become crystal clear to Arsene Wenger, and indeed Arsenal fans that van Persie isn't interested in renewing his contract, and has no desire to play his football at the Emirates this coming season.   
 He's looking for a move away, and as soon as possible. Luckily, there's no shortage of suitors for the Dutchman and despite prolonged talks with Manchester City - the Etihad Stadium looks like the 28 year-old's next destination.
@@ -31,7 +31,7 @@ On the other hand, there is the potential to join Manchester United, with Alex F
 
 Not only would Manchester United winning the 2012/13 Premier League be something of a feat, if Robin van Persie happened to be part of it, his move to Old Trafford rather than the Etihad would look quite close to a masterstroke. Certainly, money doesn't seem to be an issue with van Persie, he just wants to win trophies before his better days are behind him. Who can blame him?
 
-![Robin van Persie celebrates after scoring for Arsenal](/uploads/2012/07/Robin-van-Persie-AFC.jpg)
+![Robin van Persie celebrates after scoring for Arsenal](/wp-content/uploads/2012/07/Robin-van-Persie-AFC.jpg)
 
 Juventus are the other team in the race for his signature, and a move to Italy is something that appeals to Robin. However, the Italians are tired of talks, and do not fancy a bidding war, as a result, they have warned Arsenal that they might move away from any potential deal for RVP and instead pursue out of favour Eden Dzeko.
 

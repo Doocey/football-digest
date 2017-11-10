@@ -10,7 +10,7 @@ categories:
   - UEFA Champions League
 
 ---
-![Rio Ferdinand in action for Manchester United](/uploads/2012/12/Rio-Ferdinand-Manchester-United.jpg)
+![Rio Ferdinand in action for Manchester United](/wp-content/uploads/2012/12/Rio-Ferdinand-Manchester-United.jpg)
 
 Optimism is a great thing. Realism is quite another.  
 When Manchester United were drawn against Real Madrid in the first knockout stage of the Champions League, everyone's mind wandered to Cristiano Ronaldo and his imminent return to Old Trafford, indeed his first return since departing in the summer of 2009. The stylish magician would - in March - reenter the &#8216;cathedral' that helped him on his way to becoming one of the best footballers in the world. Old Trafford is the place where he made a name for himself. In fact, Old Trafford could be where the Portuguese maestro helps eliminate <!--more--> his former employers, as Mourinho continues his quest for a Champions League trophy with Real Madrid.
@@ -23,7 +23,7 @@ Going to the Bernabéu is no easy feat, far from it. You know what will greet yo
 
 I would expect a comfortable 2-0 win for the Spaniards at home to Fergie's men, but if United can score and not concede too many then they might just stand a chance of ending Mourinho's spell in the competition. It is, however, a major 'if'.
 
-![Cristiano Ronaldo in action for Real Madrid](/uploads/2012/12/Cristiano-Ronaldo-2012-13.jpg)
+![Cristiano Ronaldo in action for Real Madrid](/wp-content/uploads/2012/12/Cristiano-Ronaldo-2012-13.jpg)
 
 Compare the back four of each team and there is only one winner.   
 Compare the midfield, again, Real triumph.   

@@ -19,7 +19,7 @@ tags:
   - White Hart Lane
 
 ---
-![Liverpool's Luis Suarez shakes hands with Hugo Lloris](/uploads/2013/12/Luis-Suarez-Liverpool-Tottenham.jpg)
+![Liverpool's Luis Suarez shakes hands with Hugo Lloris](/wp-content/uploads/2013/12/Luis-Suarez-Liverpool-Tottenham.jpg)
 
 Tottenham Hotspur entertain Liverpool at White Hart Lane in a game which could see Brendan Rodgers' side close the gap on league leaders Arsenal to just two points. The Gunners suffered a heavy 3-6 defeat away against Manchester City on Saturday which allowed Chelsea to reduce the margin at the top to two points. The Premier League is well and truly wide-open, and to reaffirm that fact - Tottenham know a victory today can bring them level with their opponents on 30 points.  
 Andre Villas-Boas knows that in order to stand any chance of winning the game, Spurs will have <!--more--> to handle an in-form Luis Suarez who has been scoring for fun since his return from suspension.

@@ -21,7 +21,7 @@ tags:
   - Thorgan Hazard
 
 ---
-![Roberto di Matteo glances at the scoreboard at Stamford Bridge](/uploads/2012/07/Roberto-di-Matteo-Chelsea.jpg)
+![Roberto di Matteo glances at the scoreboard at Stamford Bridge](/wp-content/uploads/2012/07/Roberto-di-Matteo-Chelsea.jpg)
 
 With Chelsea looking to break the £100m barrier in transfer signings this summer, Blues fans are no doubt excited about the prospect of multiple trophies this coming 2012/13 season.  
 Eden Hazard has today been joined by his brother Thorgan from Lens, which makes him Chelsea's fourth signing and brings spending up to roughly: £70m. The Brazilian, Hulk, is reportedly the next man to sign the dotted line at Stamford Bridge in a move that would bring the London outfits tally past the one hundred million mark. In France, PSG have seemingly thrown down the gauntlet with the signings of Silva and <!--more--> Ibrahimovic and by my reckoning, if Chelsea do indeed sign Hulk from FC Porto, and Manchester City land a couple of their desired targets; summer spending across the world of football will have reached a new record high.
@@ -30,7 +30,7 @@ I could be wrong about that, but only time will tell. Early spending already has
 
 Back to Chelsea - the question is, even with the signings of Hazard(s), Marin, Oscar will the Blues have the firepower to nab back the Premier League, as well as impress in Europe? I don't think so.
 
-![Roberto di Matteo in the dugout at the San Siro](/uploads/2012/07/di-Matteo-Chelsea-FC.jpg)
+![Roberto di Matteo in the dugout at the San Siro](/wp-content/uploads/2012/07/di-Matteo-Chelsea-FC.jpg)
 
 Hazard and Oscar will need time to settle and with the departure of Drogba; it will take some time to create a rhythm between midfield and Fernando Torres, who is expected to lead the line this season. The new signings comes as quite a revamp to the squad and naturally enough, they won't set the world alight with fluid football right away.
 

@@ -19,7 +19,7 @@ tags:
   - Robin van Persie
 
 ---
-![Robin van Persie celebrates after scoring for Arsenal](/uploads/2012/07/Robin-van-Persie-Arsenal.jpg)
+![Robin van Persie celebrates after scoring for Arsenal](/wp-content/uploads/2012/07/Robin-van-Persie-Arsenal.jpg)
 
 It is news that Arsenal fans have dreaded, but expected for some time. Robin van Persie has let the Arsenal board know that he isn't willing to sign a new deal, and will seek a move away from the Emirates before the start of the new season. van Persie ended up top of the scoring charts in the Premier League, yet despite this, his side still only managed a third place and failed to secure any silverware.
 

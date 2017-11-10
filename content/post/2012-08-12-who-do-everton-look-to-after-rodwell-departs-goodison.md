@@ -18,7 +18,7 @@ tags:
   - Premier League
 
 ---
-![Jack Rodwell in action for Everton](/uploads/2012/08/Jack-Rodwell-EFC.jpgs)
+![Jack Rodwell in action for Everton](/wp-content/uploads/2012/08/Jack-Rodwell-EFC.jpgs)
 
 While all the focus for Manchester City has been on Robin van Persie and his potential arrival at the Etihad, they've managed to sneak one signing under most of our noses.   
 Jack Rodwell, Everton's prodigy, will undergo a medical in Manchester later today ahead of a completing a reported £15m move.  

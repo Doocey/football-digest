@@ -28,7 +28,7 @@ tags:
   - UEFA Champions League
 
 ---
-![Ronaldo rues a missed opportunity for Real Madrid](/uploads/2011/05/Cristiano-Ronaldo-Real-Madrid.jpg)
+![Ronaldo rues a missed opportunity for Real Madrid](/wp-content/uploads/2011/05/Cristiano-Ronaldo-Real-Madrid.jpg)
 
 Shocked isn't the word. What as Frank de Bleeckere playing at on Tuesday evening at the Camp Nou? Never in my life have I saw such a one sided game - on the referee's behalf.   
 If I was a real die hard Real Madrid fan then I would probably throw in a line but I'm neither a die-hard Catalan fan nor a supporter of Jose Mourinho's side at all.   

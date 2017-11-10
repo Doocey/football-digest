@@ -16,7 +16,7 @@ tags:
   - Thiago Silva
 
 ---
-![Thiago Silva celebrates after scoring for AC Milan](/uploads/2012/07/Thiago-Silva-AC-Milan.jpg)
+![Thiago Silva celebrates after scoring for AC Milan](/wp-content/uploads/2012/07/Thiago-Silva-AC-Milan.jpg)
 
 Manchester City, lookout.  
 There's a new big spending kid on the block and he happens to be ready to break transfer records. Today, after prolonged discussions, PSG announced the official signing of Thiago Silva for €42m. Yes, forty-two millions euros. The signing marks the intentions of the Parisian side's owners as they gear up to challenge for the Champions League and every trophy domestically. Silva, 27 is expected to the first of a double swoop from the Italian giants with the infamous and widely idolised Zlatan Ibrahimovic likely to sign the <!--more--> dotted line for the French side in the coming days, marking a staggering and indeed historic spending spree from Paris Saint Germain.

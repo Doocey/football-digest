@@ -21,7 +21,7 @@ tags:
   - Premier League
 
 ---
-![Football-Digest](/uploads/2012/07/Football_Digest.jpg "Football_Digest_Logo")
+![Football-Digest](/wp-content/uploads/2012/07/Football_Digest.jpg "Football_Digest_Logo")
 
 Well, our first post eh? Not much on the site I know but we’re only new! Anyway, in a nut shell we plan to bring you the most important football news that you need to know without the usual nonsensical headlines.
 

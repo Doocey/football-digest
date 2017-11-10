@@ -18,7 +18,7 @@ tags:
   - Wolves
 
 ---
-![Steven Fletcher in action for Wolves in the Premier League](/uploads/2012/08/Steven-Fletcher-Wolves.jpg)
+![Steven Fletcher in action for Wolves in the Premier League](/wp-content/uploads/2012/08/Steven-Fletcher-Wolves.jpg)
 
 Before anyone comments; I know Wolves have been relegated to the npower Championship, and that technically, Steven Fletcher is no longer a Premier League striker.  
 However, that will change before the summer transfer window closes on September the 1st, with Sunderland looking to spend a sizeable £14m on the former Burnley man.   
@@ -28,7 +28,7 @@ However, the Scots' saga has drawn on for the last few weeks as the Wolves board
 
 As a NUFC fan, I like to think I'm quite fair in my analysis of other footballing matters, and when it comes to Fletcher - I think he's extremely underrated. In fact, maybe even the most underrated CF in the Premier League (when he plays in it).
 
-![Steven Fletcher is put through on goal](/uploads/2012/08/Steven-Fletcher-WWFC.jpg)
+![Steven Fletcher is put through on goal](/wp-content/uploads/2012/08/Steven-Fletcher-WWFC.jpg)
 
 Realistically, he is far too good for the Championship and in the last few days, he has made it known that he wants a move away from Molineux. A transfer request has been handed in, yet despite this, Sunderland have had three bids rejected.   
 For a side who finished 13th in the league last season - below two of the three newly promoted sides - £14m is a lot of money to spend.

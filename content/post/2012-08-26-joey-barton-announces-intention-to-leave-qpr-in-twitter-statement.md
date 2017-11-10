@@ -19,7 +19,7 @@ tags:
   - Stade Vélodrome
 
 ---
-![Joey Barton](/uploads/2012/08/Joey-Barton-QPR-PL.jpg)
+![Joey Barton](/wp-content/uploads/2012/08/Joey-Barton-QPR-PL.jpg)
 
 If you follow Joey Barton on Twitter, you will have noticed his use of French in the last week or so amid reports that Marseille will bring the troubled midfielder to Stade Vélodrome.  
 This evening however, Joey has brought it a step further and announced his desire to leave QPR after feeling he has been forced out of the club. As you know, Barton is currently serving a lengthy ban for heated exchanges which saw him red carded on the final day of last season and as slim as his chances were of regaining a starting role at Loftus Road at the end of the ban; his chances are well and truly nonexistent <!--more--> now. 

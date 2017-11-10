@@ -21,7 +21,7 @@ tags:
   - Premier League
 
 ---
-![Mesut Ozil in action for Arsenal](/uploads/2013/11/Mesut-Ozil-Arsenal.jpg)[1]
+![Mesut Ozil in action for Arsenal](/wp-content/uploads/2013/11/Mesut-Ozil-Arsenal.jpg)[1]
 
 Many fans and pundits alike have questioned the Gunners ability to win the Barclays Premier League this season, and perhaps rightly so with Arsenal having not won the league since 2004.   
 However, the facts and figures suggest that this season, Wenger will lead his side to a successful league campaign, which should see them become Champions for the first time since the time of the &#8216;Invincibles'.   
@@ -37,7 +37,7 @@ At this point in an argument critics will normally point to Arsenal’s supposed
 
 However, the Gunners had the second meanest defence in the league last season shipping only 37 goals, with runners-up Man City only conceding less with 34. The North London club also has the joint third best back line this campaign with only Spurs and Southampton having conceded less times than the league leaders. Arsenal also kept clean sheets away to Bayern Munich who have scored in 72 of their last 73 games and against Borussia Dortmund who have scored in 62 of their last 63 matches. Weak at the back? Hardly.
 
-![Per Mertesacker in action for Arsenal in the Champions League](/uploads/2013/11/Per-Mertesacker-Arsenal.jpg")
+![Per Mertesacker in action for Arsenal in the Champions League](/wp-content/uploads/2013/11/Per-Mertesacker-Arsenal.jpg")
 
 In **Per Mertesacker** and Laurent Koscielny, Arsenal have one of the best defensive partnership’s in the league with the pair not having lost a game where they played 90 minutes together since the 22nd January 2012 against Manchester United. People often claim that Mertesacker is too slow to be a world-class centre-half, but 94 caps for Germany would suggest differently.
 
@@ -53,6 +53,6 @@ If the Gunners sign another striker to partner Giroud, along with everything els
 
 _This post was written by [Ethan McDonagh][2] from our friends over at Touchline Talk. You can check out their site, or give them a follow on Twitter [@TouchlineTalk][3]._
 
- [1]: /uploads/2013/11/Mesut-Ozil-Arsenal.jpg
+ [1]: /wp-content/uploads/2013/11/Mesut-Ozil-Arsenal.jpg
  [2]: https://twitter.com/EytMcD
  [3]: https://twitter.com/touchlinetalk
