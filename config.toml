@@ -1,0 +1,95 @@
+baseUrl = '/'
+title = 'Premier League, La Liga, Serie A and General Football News & Analysis'
+languageCode = "en-us"
+disqusShortname = "your_disqus_shortname" # Optional, enable Disqus integration
+MetaDataFormat = "toml"
+theme = "hyde-x"
+paginate = 8
+
+[author]
+    name = "Football Digest"
+
+[permalinks]
+    # Optional. Change the permalink format for the 'post' content type.
+    # The format shown here is the same one Jekyll/Octopress uses by default.
+    post = "/:year/:title/"
+
+[taxonomies]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
+    tag = "tag"
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    weight = 10
+
+[[menu.main]]
+    name = "Write For Us"
+    url  = "/write-for-us/"
+    weight = 15
+
+[[menu.main]]
+    name = "Friends"
+    url  = "/friends/"
+    weight = 25
+
+[params]
+    # If false display full article contents in blog index.
+    # Otherwise show description and 'read on' link to individual blog post page.
+    # Default (if omitted) is true.
+    # Pluralize titles in lists using inflect
+    pluralizeListTitles = false
+    truncate = true
+
+    # Used when a given page doesn't set its own.
+    siteTitle = 'Football Digest'
+    defaultDescription = "Latest news from the world of football including Premier League, Champions League, and La Liga analysis. Everything football, brought back to its roots."
+    # Hide estimated reading time for posts.
+    # Default (if omitted) is false.
+    hideReadingTime = false
+
+    # Changes sidebar background and link/accent colours.
+    # See below for more colour options.
+    # This also works: "theme-base-08 layout-reverse", or just "layout-reverse".
+
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    # highlight = "sunburst"
+
+    # Optional additional custom CSS file URL, will override other styles.
+    customCSS = ""
+
+    # Displays under the author name in the sidebar, keep it short.
+    # You can use markdown here.
+    tagline = "Opinion pieces on the beautiful game that is football."
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Blog".
+    home = "Home"
+
+    # Metadata used to drive integrations.
+    googleAnalytics = "Your Google Analytics tracking code"
+    gravatarHash = "MD5 hash of your Gravatar email address"
+
+    # Sidebar social links, these must be full URLs.
+    github = ""
+    bitbucket = ""
+    stackOverflow = ""
+    linkedin = ""
+    googleplus = ""
+    facebook = "https://www.facebook.com/footballdigest"
+    twitter = "http://twitter.com/KevinDoocey"
+    youtube = ""
+
+    # Other social-like sidebar links
+    rss = false  # switch to true to enable RSS icon link
