@@ -1,7 +1,7 @@
 baseUrl = '/'
 title = 'Premier League, La Liga, Serie A and General Football News & Analysis'
 languageCode = "en-us"
-disqusShortname = "doocey21" # Optional, enable Disqus integration
+disqusShortname = "footballdigest" # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 8
