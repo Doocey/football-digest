@@ -1,6 +1,6 @@
 backend:
-  name: github
-  repo: doocey/football-digest  # Branch to update (optional; defaults to master)
+  name: git-gateway
+  repo: master  # Branch to update (optional; defaults to master)
 media_folder: "static/images" # Media files will be stored in the repo under static/images/
 public_folder: "/images" # The src attribute for uploaded media will begin with /images/uploads
 
@@ -16,6 +16,8 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Categories", name: "categories", widget: list}
+      - {label: "Tags", name: "tags", widget: list, default: ['term_1', 'term_2']}
     meta:
       - {label: "SEO Description", name: "description", widget: "text"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
