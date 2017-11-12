@@ -1,14 +1,14 @@
 ---
-title: 'Roy Hodgson & England deserve every ounce of criticism they get'
-description: England's elimination from Euro 2016 at the hands of minnows Iceland was the culmination of poor selection & management from Roy Hodgson and his staff.
-author: Kevin Doocey
-type: post
-date: 2016-06-28T12:57:15+00:00
-url: /2016/06/28/roy-hodgson-england-deserve-every-ounce-criticism/
-dsq_thread_id:
-  - 4945066140
+title: Roy Hodgson & England deserve every ounce of criticism they get
+date: 2016-06-28T12:57:15.000Z
+excerpt: >-
+  The world of football was sent reeling into chaos on Monday evening as Euro
+  2016 minnows Iceland unceremoniously dumped England out of tournament, and it
+  was fully deserved.
 categories:
   - EURO 2016
+tags:
+  - Roy Hodgson
 ---
 
 ![Roy Hodgson & England deserve every ounce of criticism they get](/wp-content/uploads/2016/06/Roy-Hodgson-Euro-2016-Iceland.jpg "Roy Hodgson")
