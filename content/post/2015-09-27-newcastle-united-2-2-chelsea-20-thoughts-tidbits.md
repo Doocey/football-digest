@@ -1,31 +1,10 @@
 ---
 title: 'Newcastle United 2-2 Chelsea: 20 Thoughts & Tidbits'
-author: Aziz Khalil
-type: post
-date: 2015-09-27T15:12:19+00:00
-url: /2015/09/27/newcastle-united-2-2-chelsea-20-thoughts-tidbits/
-dsq_thread_id:
-  - 4170818242
-categories:
-  - Newcastle United
-tags:
-  - Alan Pardew
-  - Alex Ferguson
-  - Aziz Khalil
-  - Chancel Mbemba
-  - Chelsea
-  - Fabricio Coloccini
-  - Football Digest
-  - Football News
-  - Georginio Wijnaldum
-  - Jose Mourinho
-  - Kevin Doocey
-  - Newcastle United
-  - Newcastle United Blog
-  - NUFC360
-  - Premier League
-  - Steve McClaren
-
+date: 2015-09-27T15:12:19.000Z
+excerpt: >-
+  This Newcastle United group has had a tendency to play up to their competition
+  for quite some time now; and it usually happens versus Jose Mourinho and
+  Chelsea writes Aziz Khalil.
 ---
 **Words by Aziz Khalil – follow him on Twitter [@azizk47](https://twitter.com/azizk47")**
 
