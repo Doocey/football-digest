@@ -16,6 +16,8 @@ tags:
   - Manchester United
   - Premier League
 ---
+![Romelu Lukaku celebrates after scoring for Manchester United](/images/romelu-lukaku-manchester-united.jpg)
+
 **Romelu Lukaku** has thanked his 'real' fans on social media after he scored a brace in Belgium's 3-3 draw with Mexico.
 
 The 24-year-old has been at the centre of attention surrounding the Red Devils recently, with fans creating a controversial song for their £76m summer signing that has since been banned.
