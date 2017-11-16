@@ -1,4 +1,4 @@
-baseUrl = '/'
+baseUrl = 'https://www.footballdigest.org'
 title = 'Premier League, La Liga, Serie A and General Football News & Analysis'
 languageCode = "en-us"
 disqusShortname = 'footballdigest' # Optional, enable Disqus integration
