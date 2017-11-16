@@ -25,7 +25,7 @@ However, there still seems to be tension between the Red Devils fans and the Bel
 
 Lukaku wrote on his Instagram page:
 
-{{< instagram BbYFRJKg4ji >}}
+> _'Big thank you to all my teammates and the real fans out there for the messages! @belgianreddevils'_
 
 Lukaku has netted seven goals in the [Premier League](http://footballweeks.com/category/premier-league/) since his big-money move to Old Trafford over the summer. However, he hasn't found the back of the net in the Premier League since a 4-0 victory over Crystal Palace in September.
 Man United host Newcastle when the international break ends and the Belgian forward will be desperate to replicate his previous form in securing all three points against Rafa Benitez's side.
