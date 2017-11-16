@@ -1,10 +1,15 @@
 baseUrl = '/'
 title = 'Premier League, La Liga, Serie A and General Football News & Analysis'
 languageCode = "en-us"
-disqusShortname = "footballdigest" # Optional, enable Disqus integration
+disqusShortname = 'footballdigest' # Optional, enable Disqus integration
 MetaDataFormat = "toml"
 theme = "hyde-x"
 paginate = 8
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [author]
     name = "Football Digest"
@@ -43,6 +48,8 @@ paginate = 8
     weight = 25
 
 [params]
+    # Generate robots.txt filename
+    enableRobotsTXT = true
     # If false display full article contents in blog index.
     # Otherwise show description and 'read on' link to individual blog post page.
     # Default (if omitted) is true.
